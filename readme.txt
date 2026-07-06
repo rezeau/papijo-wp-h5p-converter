@@ -42,7 +42,7 @@ Converted outputs:
 
 == Installation ==
 
-1. Upload the papijo-wp-h5p-converter folder to wp-content/plugins.
+1. Upload the papijo-h5p-converter folder to wp-content/plugins.
 2. Activate Papijo H5P Converter in WordPress admin.
 3. Go to Tools > Papijo H5P Converter.
 
